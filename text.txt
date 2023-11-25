@@ -1,0 +1,7 @@
+Hello, this is the text file for testing i/o in python
+second line of the test file
+third line of the test file
+fourth line of the test file
+fifth line of the test file
+sixth line of the test file
+the last(7th) line of the test file
