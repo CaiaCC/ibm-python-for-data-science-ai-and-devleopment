@@ -11,7 +11,7 @@ print(A.ndim)
 print(A.shape)
 print(A.size)
 '''
-
 # transposed matrix
 B = A.T
 print(B)
+print(B[0][1])
