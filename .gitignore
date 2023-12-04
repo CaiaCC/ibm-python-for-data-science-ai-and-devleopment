@@ -13,6 +13,8 @@ _pycache__/
 *.png
 *.csv
 *.txt
+*.xml
+*.xlsx
 
 # C extensions
 *.so
