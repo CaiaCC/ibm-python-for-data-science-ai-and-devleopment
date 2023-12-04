@@ -15,6 +15,7 @@ _pycache__/
 *.txt
 *.xml
 *.xlsx
+*.json
 
 # C extensions
 *.so
